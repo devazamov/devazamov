@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Zarifjon Azamov (DevAzamov)
 
-<!--
-**devazamov/devazamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🚀 Building Modern Web Applications
+📚 Learning Programming & Technology
+🇺🇿 Uzbekistan
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://devazamov.netlify.app
+
+## 🔗 Connect With Me
+
+* Telegram: https://t.me/devazamov
+* Instagram: https://instagram.com/devazamov
+* YouTube: https://youtube.com/@devazamov
+* LinkedIn: https://linkedin.com/in/zarifjon-a-zamov-459659408
+
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Python
+* Git & GitHub
+
+## 🚀 Featured Project
+
+### AZAMOV PORTFOLIO
+
+A modern multilingual portfolio website built with Next.js, TypeScript and modern UI/UX principles.
+
+---
+
+⭐ Welcome to my GitHub profile!
